@@ -1,0 +1,4 @@
+ebooklib
+markdown
+pillow
+beautifulsoup4
